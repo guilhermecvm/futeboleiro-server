@@ -1,0 +1,12 @@
+{
+  "name": "futeboleiro-server",
+  "version": "1.0.0",
+  "license": "ISC",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^0.14.0",
+    "express": "^4.14.0"
+  }
+}
